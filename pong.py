@@ -184,4 +184,5 @@ while True:
 
 
     time.sleep(0.01)
+    wn.mainloop()
 
